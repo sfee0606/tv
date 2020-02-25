@@ -801,7 +801,991 @@ NewTV家庭剧场,http://112.17.40.204/PLTV/88888888/224/3221226642/1.m3u8
 陕西 Ⅰ 西安白鸽台,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
 陕西 Ⅰ 西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 陕西 Ⅰ 西安丝路台,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-
+俄罗斯,#genre#
+Украина[FHD],http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+Украина[FHD],http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+УкраинаHD,http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+Украина,http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
+Украина,http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+Украина,http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+Канал(Омск),http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+ АбазаТВ,http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+Арис_24,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+Архыз_24_HD,http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+Астрахань_24_HD,http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+Афонтово(Красноярск),http://xstream.afontovo.ru/afontovo_ya.m3u8
+ Беларусь24,https://stream.hoster.by/belarus24hd/livehd/playlist.m3u8
+Беларусь_24,http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+Беларусь_4(Витебск),http://95.46.208.8:26258/belarus4
+ БелРос,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+ БСТ,http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8
+ ВарягТВ,http://87.252.229.252:8081/varag
+Время,http://178.163.109.216:34040/udp/234.0.0.225:2000
+ГрозныйТВ,http://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8
+ ГромадськеТВ,http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8?codec=mpeg4
+ГромадськеТВ[FHD],http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+ДагестанТВ,http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
+ ДагестанТВ[FHD],http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8
+ Дисконт,http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
+ ДОЖДЬ,https://a3569457435-s78511.cdn.ngenix.net/open/definst/TVRain_noaudio/chunklist_DVR.m3u8
+Домкино,http://178.124.183.150/hls/CH_DOMKINO_HLS/bw1200000/playlist.m3u8
+ДомКиноПремиум_HD,http://37.235.191.107:81/udp/225.50.64.3:1234
+Домашний,http://79.135.71.195:8042
+Евроновости,http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+Еко_TV,http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
+ЕкоТВ,http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+ ЕлАрна,https://sc.id-tv.kz/ElArna_38_39.m3u8
+Еспресо,http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+Еспресо_TV,http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+Звезда,http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+ИзвестияТВ[FHD],http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+ИзвестияТВHD,http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+Индийскоекино,http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
+ Интер,https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+ Интер,http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+ К1,http://109.68.40.67/life/k1_3/index.m3u8
+Кавказ24,http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
+КиевТВ,http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+ КиевТВ,http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
+Київ,http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+КиноЗаказ_1,http://hls.goodgame.ru/hls/12949.m3u8
+Кинокомедия,http://178.163.32.6:81/udp/234.0.0.118:2000
+Кинокомедия_HD,http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/28.ts 
+КиноМеню_HD,http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
+Киномикс,http://178.124.183.5/hls/VVG76MWUGX_HLS/variant.m3u8
+Киномикс,http://86.57.225.245:7015/play/a005
+Киномикс_HD,http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/27.ts
+Кинопоказ,http://193.233.188.148:81/udp/239.191.254.185:13343
+Кинопоказ_2_HD,http://autopilot.myowntv.org/content/35448/index.m3u8
+Кинопоказ_3_HD,http://autopilot.myowntv.org/content/35525/index.m3u8
+Кинопремиум_HD,http://playlist.hmara.tv:80/4a8a78be/7cd8c0d06cfe1ded1530709554028377b77b45dd.m3u8
+Кинопремьера,http://tviptv.iptv-channel.ru:8000/live/9nymI0P269/K7NuKoshVt/26.ts
+Кинопремьера_HD,http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
+Кинопремьера_HD,http://178.124.183.14/hls/CH_KINOPREMERA/variant.m3u8
+Киносвидание,http://tviptv.iptv-channel.ru:8000/live/9nymI0P269/K7NuKoshVt/25.ts
+Киносвидание,http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
+Киносвидание_HD,http://217.25.216.4:8085/udp/238.2.18.14:1234
+Киносемья,http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
+Киносемья,http://178.124.183.13/hls/FEDXG8XPOR/bw1200000/playlist.m3u8
+Киносемья_HD,http://217.25.216.4:8085/udp/238.2.18.16:1234
+Киносерия,http://178.124.183.13/hls/CH_KINOSERIA/bw1200000/playlist.m3u8
+Киноужас,http://tviptv.iptv-channel.ru:8000/live/9nymI0P269/K7NuKoshVt/128.ts
+Киноужас_HD,http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/128.ts
+Кинохит,http://178.124.183.13/hls/HDOHSSZQCP/bw1200000/playlist.m3u8
+Кинохит_HD,http://217.25.216.4:8085/udp/238.2.18.22:1234
+КлассикаКино,http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+КомедийноеHD,http://91.223.105.236:8081/hlsx/473/473.m3u8
+Комедийное_HD,http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+КомедияТВ,http://46.180.99.15:81/udp/239.255.42.43:1234
+ Краснаялиния,https://kprf-htlive.cdn.ngenix.net/live/_definst/stream_high/chunklist.m3u8
+ КраснаялинияТВ,http://kprf-htlive.cdn.ngenix.net/live/definst/stream_high/playlist.m3u8
+ КрикТВ,http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+КрикТВ,http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+ КРТ,http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
+ КТК,https://sc.id-tv.kz/KTK_38_39.m3u8
+ КТК,http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+ Кубань24Орбита,https://stream.kuban24.tv:1500/hls/stream.m3u8
+ Кузбасс24,http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8
+КурайТВ,http://bsttv.bonus-tv.ru:80/cdn/kurai/tracks-v1a1/index.m3u8
+ЛипецкоеВремя,http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+М1,http://live.m2.tv/hls/stream.m3u8
+М2,http://live.m2.tv/hls3/stream.m3u8
+МаксиТВ,http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+ Макси/НАШ,http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+ Малятко,http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+ МаляткоTV,http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+МаляткоТВ,http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
+ Мега,http://188.35.9.5:10007/stolen/140r/parasite.install
+ Миллет,http://live.trkmillet.ru/millet/index.m3u8
+ Мир,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+ Мир24,https://sc.id-tv.kz/Mir24_38_39.m3u8
+Мир_24_HD,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Мир_HD,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+МИР_Premium,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+МирБелогорья,http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+ Москва24,http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+Мужскоекино,http://86.57.225.245:7015/play/a00r
+ Мужскоекино,http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
+НашДомHD,http://85.234.33.60/stream/c11.m3u8
+НашФутбол,http://178.124.183.13/hls/HNBMWPATWZ/bw1200000/playlist.m3u8
+НашеНовоеКино,http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8
+ НашеТВ,http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+НашеТВВитебск[BY],http://95.46.208.8:26259/nashe
+Неизвестнаяпланета,http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+Новини_24,http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+НовоеТВ(KZ),https://sc.id-tv.kz/New_Television_38_39.m3u8
+НовоеТелевидение,http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+ Ностальгия,http://178.124.183.5/hls/SWPQU2UFKD/variant.m3u8
+ НТВ+Спорт,https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+НТВ+ФутболHD,http://tv545.com/stream/PzDAvbQ/channel/656.m3u8
+НТН,http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+НТН,https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+ОНТ.BY,http://stream.ont.by:1935/ont/live576p/playlist.m3u8
+Остросюжетное_HD,http://188.35.9.26:14050/udp/238.0.14.3:69000
+ПервыйДеловой,http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+ ПервыйДеловой,http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+Первыйканал"Евразия",http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+ПервыйМузыкальныйBY,http://rtmp.one.by:1200
+ПервыйМузыкальныйBY[FHD],http://rtmp.one.by:1300
+ ПервыйМузыкальный_RU_BY,http://rtmp.one.by:2200
+ПравдаТУТКиев,http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+Просвещение,http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+Прямой,http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+Прямой,http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+Прямой_HD,http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+Пятница!_HD,http://85.112.114.11:8086/udp/233.170.170.112:58631
+РадаТВ,http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+ РадостьМоя,http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+РБКТВ,http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+ РБКТВ,http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+РБКТВ(Екатеринбург),http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8
+РБКТВ(Уфа),http://92.50.128.180/utv/1358/index.m3u8
+РенТВ,http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+ РенТВ_HD,http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+РенТВInternational,http://sc.id-tv.kz/RenTV_36_37.m3u8
+РенТВInternational,https://sc.id-tv.kz/RenTV_38_39.m3u8
+Родноекино,http://86.57.225.245:7015/play/a00j
+ Россия1_HD,http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+Россия_1_HD,http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+РТРРоссияHD,http://178.124.183.13/hls/7MQSYYGHFE/bw5000000/playlist.m3u8
+РусскийИллюзион,http://178.124.183.5/hls/CMV4SNACFQ/variant.m3u8
+Русскийиллюзион,http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
+Русскийроман,http://188.35.9.5:10007/stolen/127k/parasite.install
+ Сарафан,http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8
+ СетантаСпорт,http://178.124.183.4:80/hls/FWHTTL8YXU/variant.m3u8
+СКАЗКИЗАЙКИ,http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+СмайликТВ_HD,http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+СоветскоеКино,http://178.124.183.13:80/hls/CH_SOVKINO/bw1200000/playlist.m3u8
+ Сонце,http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+ Сочи24_HD,http://sochi.camera:8080/cam_128/index.m3u8?token=null
+Сочи_24_HD,http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+Союз,http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+Спорт_1_HD,http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+Спорт_MAX_HD,http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+СТВ(Беларусь),http://212.98.171.116/HLS/ctvby/playlist.m3u8
+ СТВКазахстан,https://sc.id-tv.kz/STV_38_39.m3u8
+Страшное_HD,http://tv545.com/stream/PzDAvbQ/channel/967.m3u8
+СТРК_HD,http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+СТС_International,https://sc.id-tv.kz/STS_38_39.m3u8
+Супер_HD,http://85.112.114.11:8086/udp/238.2.49.249:1234
+Тамыр,http://bsttv.bonus-tv.ru:80/cdn/tamyr/tracks-v1a1/index.m3u8
+ТВЦентр,http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+ ТвоеТВ(KZ),https://sc.id-tv.kz/TvoeTV_38_39.m3u8
+ ТВЦ,http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+ ТЕТ,https://live-k2309-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8
+ ТНВПланета,http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+ТНТ_4_HD,http://195.191.208.2:8086/udp/233.170.170.130:58631
+ТочкаТВ,http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+ТюменскоеВремя,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+Фантастика,http://v2.catcast.me/content/37388/index.m3u8
+ФениксПлюсКино,http://uiptv.do.am/1ufc/229011129/playlist.m3u8
+Хабар_24,https://sc.id-tv.kz/Khabar_24_38_39.m3u8
+Хабар_24,http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+ХалыкАрна,https://sc.id-tv.kz/HalykArna_38_39.m3u8
+ШансонТВ,http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+Шокирующее_HD,http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+Шокирующее_HD,http://91.223.105.236:8081/hlsx/472/472.m3u8
+ЭгоистТВ,http://playlist.hmara.tv:80/4a8a78be/b2fd086f2a9c1aa901f64bb120c16eb4e31ae041.m3u8
+ TV1_KG,http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+TV1000,http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+TV1000_Action,http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+ TV1000_Русскоекино,http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+1HD_Music_TV,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+1Music_Channel_Hungary,http://1music.hu/1music.m3u8
+канал,http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+канал,https://sc.id-tv.kz/31Kanal_38_39.m3u8
+канал,http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+каналУкраина,http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4
+ канал(KZ),https://sc.id-tv.kz/7_kanal_38_39.m3u8
+канал(Беларусь),http://91.215.176.238:8000/8channel
+ канал(Витебск),http://95.46.208.8:24433/art 1+1,http://188.35.9.11:2001
+1+1_HD,https://dl.dropbox.com/s/1pq0dxy9qpe0v29/VLC_1plus1_HD.m3u
+ A2_38_39,https://sc.id-tv.kz/A2_38_39.m3u8
+ ACB_TV,http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+ Al_Kass_Спортs_1,http://www.elahmad.com/tv/m3u8
+ Al_Kass_Спортs_1_HD,http://www.elahmad.com/tv/m3u8/alkass.m3u8
+ ALL_Спортs,http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+ ALL_Спортs_HD,http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+ Almaty_TV,https://sc.id-tv.kz/Almaty_38_39.m3u8
+ Almaty_TV_(KZ),http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+Alsace_20,http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+ Arryadia_Спорт,http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+ Arryadia_СпортHD,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+Astana_TV,https://sc.id-tv.kz/Astana_38_39.m3u8
+Atameken_Business_TV,https://sc.id-tv.kz/Atameken_38_39.m3u8
+Atameken_Business_TV(KZ),http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+ ATR,http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+ ATR,http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
+ ATR,http://stream.atr.ua/atr/live/index.m3u8
+ ATV_2,http://85.132.81.184:8080/atv-2/index.m3u8
+ ATV_4,http://85.132.81.184:8080/atv-4/index.m3u8
+ BBC_Cbeebies,http://51.52.156.22:8888/http/003
+ BEIN_СпортS_6_HD,http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/11.ts
+ BEIN_СпортS_7_HD,http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/13.ts
+ BOLT,http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
+BOLT,http://hls.sweet.tv/stream/xjijamm8gqu84ev4u8brzsyedseatk36pssx5u5qkwpup6huu2kcmydgaubqwq48y5gzagnudpw2kqjph6awvga6hye3cqf77nf5xak5nteqhixnkc77tg639sxgrrhpuidega4wkbr3eknbhu6s====.m3u8
+ Boomerang,http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8
+ Cartoon_Network,http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
+CCTV_5_СпортHD,http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
+CGTNРусский,http://live.cgtn.com/1000r/prog_index.m3u8
+ Combat_Go,http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+ Deejay_TV,http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+Disney_Junior,http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+ Duck_TV,http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+ DW_TV_English,http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+ E_Спорт3,http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
+Enki-Benki,http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+Enter-Фільм,http://188.35.9.5:10007/stolen/138w/parasite.install
+Epic_Drama,http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+Epic_Drama,http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+FOX,http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
+FOX_Life,http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
+France_24(ENG),http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+ Galaxy,http://178.124.183.5/hls/CH_GALAXY/variant.m3u8?version=2
+ Gulli_Girl,http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8
+HD_Media,http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
+ HD_КИНО,https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+ Holvoet_TV_HD_(Chille),http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+Hromadske_TV_(HD),http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8?codec=mpeg4
+ HTV_KG,http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
+ ID_Fashion_(KZ),https://sc.id-tv.kz/IDFashion_38_39.m3u8
+ ID_Fashion_TV,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
+ ID_Fashion_TV_[FHD],http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+ ID_Fashion_TV_HD,http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+ Iнтер,http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+ Kazakh_TV,http://212.8.233.150:8081/kazahtv/stream_kz/playlist.m3u8
+ Kazakh_TV_(KZ),http://212.8.233.150:8081/kazahtv/stream_ru/playlist.m3u8
+Kids_Click,https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+ Kidzone,http://88.119.220.2/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+ Kronehit_HD,https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+ Kronehit_TV_[FHD],http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+ Kronehit_TV_HD,http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+ Lale,http://stream.atr.ua/lale//live/index.m3u8
+ Leomax,http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
+ Leomax_24,http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+ Luxury_HD,http://nano.teleservice.su:8080/hls/luxury.m3u8
+ M2O_TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+ MostVideo_TV_HD,http://w4.mostvideo.tv/tv/ch1.m3u8
+ MTV_HD,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+ Music_Box_UA,http://212.26.132.86/hls/mb_ua_2500.m3u8
+ Nano_TV,http://nano.teleservice.su:8080/hls/nano.m3u8
+ National_Geographic,http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
+National_Geographic_HD,http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+National_Geographic_HD,http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+ Ocean_TV,http://91.192.168.242:9091
+ Ocean_TV_HD,http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+ OTV_Music,http://212.26.146.148/hls/otv.m3u8
+ OTV_Music,http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+Radio_105_TV,http://serv07.vintera.tv:8081/restream/radio105/playlist.m3u8
+ Red_Bull_TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Retro_Music_Tv,http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+ Rik,https://nn.geo.joj.sk/live/rik-index.m3u8
+ RU_TV,https://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8
+ RU_TV_HD,http://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+ RU_TV_HD,http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+Russian_Music_Box,http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+Setanta_Спортs_Eurasia_HD,http://178.124.183.12/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+ Sky_СпортNews,http://178.196.237.240:7777/play/a01u
+SKYСпортNews_HD,http://178.196.237.240:3000/play/ccSkyNEwscc
+SONG_TV_Armenia,http://songtvam.ru:8060/hd/playlist.m3u8
+Sony_Channel_HD,http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+Sony_Sci-Fi,http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
+Sony_Sci-Fi,http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+Star_Cinema,http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
+TCT_Kids,http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+TELE_ARENA,http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+TELE_MONTE_NEVE,http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+TELE_MONTE_NEVE_3,http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
+TELE_TICINO,https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8
+TET,https://live-k2303-kbp.1plus1.video/233342/smil:233342.smil/playlist.m3u8
+TiJi,http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8
+Travel_Guid-TV,http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+Travel_HD_BG,http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+TV_TRWAM,http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
+TV8_HD_Moldova,http://live.cdn.tv8.md/TV7/video1.m3u8?token=1
+TVM_Channel,http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+TVM_Channel,http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+UA_TV,http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+UA_TV,http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+UA_TV,http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
+UA_TV_HD,http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+UAКрым,http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
+ UA_Культура,http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+ UA_Одесса,http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4
+ UA_Перший,http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+ Univer_TV,http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+ Univer_TV_HD,http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+VIP_Comedy,http://78.157.230.19/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+ViP_Comedy_HD,http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+ VIP_Comedy_HD,http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/22.ts
+ViP_Megahit,http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+ VIP_Megahit_HD,http://188.35.9.5:10020/stolen/403x/hot.dll
+VIP_Premiere,http://78.157.230.19/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+ViP_Premiere,http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+ ViP_Premiere_HD,http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/20.ts
+VIP_Premium_HD,http://playlist.hmara.tv:80/4a8a78be/f4bae42151f9588d2143c586a3d8da75141c95ee.m3u8
+ WFC_TV,http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+ WFC_TV_International,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+ WFC_TV_International_[FHD],http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+ WFC_TV_International_HD,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+WOW!TV_HD,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+ zik,http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+ А1_(Одесса),http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+ А1_(Одесса)_[HD],http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+意大利,#genre#
+Rai Movie(电影),http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+Rai Movie(电影),http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+Rai Premium Italia(电影),http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+Rai Premium Italia(电影),http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8 
+RadioBruno,http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+Rai4 HD,http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+Rai Gulp HD儿童频道,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+Brescia Punto TV,http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+Brescia Punto TV,http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/chunklist_w585038599.m3u8
+SKY TG24,http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+SKY TG24,http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+DeeJay TV,http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+La 7,http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+Radio Azzurra,http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+Radio Capital TiVu,http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+Radio Italia TV,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+SuperTV,http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+teleMonteneve,http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+telePAVIA,http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+TSN,http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+TVRS,http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+Video Calabria,http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+Canale 7,http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+Canale 10,http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+Carina TV,http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+eTV Marche,http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+m2o电子音乐频道,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+m2o电子音乐频道,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+M2OTV音乐电视频道,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+Rai News 24,http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+Rai Yoyo,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+TeleArena,http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+UniNettuno University TV,http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+Deejay TV音乐频道,http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+Radio Norba TV,http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+History Lab,http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+越南,#genre#
+Việt Mỹ TV,http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+Việt News TV,http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
+Vietteen,http://vietcago.net/vstv/vietteen.m3u8
+VITV,http://210.86.230.202:8134/hls-live/livepkgr/definst/liveevent/livestream.m3u8
+VNA TV,http://livestream.vnvn.net/hls-live/livepkgr/definst/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
+VNA TV,http://livestream.vnvn.net/hls-live/livepkgr/definst/vnatv573-3/vnatv573-3.m3u8
+VNBC,http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
+VTVcab11,https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
+workpoint,http://live.pjmcdn.info/live/workpoint.stream/playlist.m3u8
+YenBaiTV,http://vietcago.net/vstv/yenbaitv.m3u8
+VOVTV,http://vietcago.net/vstv/vovtv.m3u8
+马来西亚,#genre#
+TVRIP7p,p8p://0198.02686.cc:16871/5d3312ab0003e1d73e5a56994d8de097.ts
+Bandung_TVP7p,p8p://0198.02686.cc:16871/5d3312a8000dfa893e5a4d77d923b604.ts
+Al_Iman_TVP7p,p8p://0198.02686.cc:16871/5d3312a90005d5ed3e5a4f4909b690f7.ts
+shareP7p,p8p://0198.02686.cc:16871/5d3312a9000cf5a23e5a511c5cea4252.ts
+https://www.eocdo.com/ MNC_TVP7p,p8p://0198.02686.cc:16871/5d3312aa0004e5283e5a52f4f2a71a3b.ts
+TVRI_3P7p,p8p://0198.02686.cc:16871/5d3312aa000c02323e5a54c612860cab.ts
+Rajawali_TV,tvbus://4Zf8jtuB7xURG1FFnTis9GrNBYZ4Z8Bksy6pj1Vf1XzEcnFS5v
+Wesal_TVP7p,p8p://0198.02686.cc:16871/5d3312ac00060c8b3e5a5b0f268aed03.ts
+Ruai_TVP7p,p8p://0198.02686.cc:16871/5d3312ac000d447a3e5a5ce8a308a186.ts
+Puldapii_TVP7p,p8p://0198.02686.cc:16871/5d3312ad0006d0183e5a5f29327e61aa.ts
+TVRI_sport_HDP7p,p8p://0198.02686.cc:16871/5d3312ad000e0ed23e5a6104a3fc10c1.ts
+Ahsan_TVP7p,p8p://0198.02686.cc:16871/5d3312ae00077cf03e5a633e2afc1105.ts
+M_Cine_ChannelP7p,p8p://0198.02686.cc:16871/5d3312ae000e9c4c3e5a65101db1bb9a.ts
+BBC-AMERICAP7p,p8p://0198.02686.cc:16871/5d1a69660009ae9211bcae0b3b66fb97.ts
+8P7p,p8p://0198.02686.cc:16871/5d1a6960000d01a711bc9775a84751d1.ts
+NationP7p,p8p://0198.02686.cc:16871/5d1a69e2000bb03311be92ef2a2330ac.ts
+25P7p,p8p://0198.02686.cc:16871/5d1a695e000a3f8f11bc8ef07ef72e30.ts
+Movie_TVP7p,p8p://0198.02686.cc:16871/5d1a69e100040c4b11be8d124a4f4447.ts
+WPP7p,p8p://0198.02686.cc:16871/5d1a69f600023bca11bedea3bf1b937b.ts
+3P7p,p8p://0198.02686.cc:16871/5d1a695f000648b011bc91d5fde79a51.ts
+No_ServiceP7p,p8p://0198.02686.cc:16871/5d1a69e7000cff0b11bea6cd57a945c2.ts
+ThairathTvP7p,p8p://0198.02686.cc:16871/5d1a69ee000cf50811bec2224d35c419.ts
+https://www.eocdo.com/ CH.9P7p,p8p://0198.02686.cc:16871/5d1a69710006f75211bcd8515d005138.ts
+News_1P7p,p8p://0198.02686.cc:16871/5d1a69e50009ada611be9e2382445a24.ts
+7P7p,p8p://0198.02686.cc:16871/5d1a69600001e93b11bc949ed0710e31.ts
+M_ChannelP7p,p8p://0198.02686.cc:16871/5d1a69e000083da011be8a3df3ee304a.ts
+FAH_WAN_MAIP7p,p8p://0198.02686.cc:16871/5d1a697c0003bc2911bd027666ca5967.ts
+SpringP7p,p8p://0198.02686.cc:16871/5d1a69e9000f3cb011beaf2f0ed9fa6c.ts
+TPBSP7p,p8p://0198.02686.cc:16871/5d1a69f100012dda11becad65c4970fe.ts
+Super_EntP7p,p8p://0198.02686.cc:16871/5d1a69eb00066bb811beb4be2e00f8bf.ts
+News1_(USA)P7p,p8p://0198.02686.cc:16871/5d1a69e600058ab011bea0fc8a6fa32d.ts
+CH.1P7p,p8p://0198.02686.cc:16871/5d1a6970000ba43811bcd59c32d704df.ts
+TGNP7p,p8p://0198.02686.cc:16871/5d1a69ee00020c6911bebf57495301ab.ts
+在线课堂,#genre#
+新东方一年级,http://aldirect.hls.huya.com/huyalive/1099531752589-1099531752589-86435413673115648-2199063628634-10057-A-0-1.m3u8
+新东方二年级,http://aldirect.hls.huya.com/huyalive/1099531752590-1099531752590-86435417968082944-2199063628636-10057-A-0-1.m3u8
+新东方三年级,http://aldirect.hls.huya.com/huyalive/1099531752591-1099531752591-86435422263050240-2199063628638-10057-A-0-1.m3u8
+新东方四年级,http://aldirect.hls.huya.com/huyalive/1099531752592-1099531752592-86435426558017536-2199063628640-10057-A-0-1.m3u8
+新东方五年级,http://aldirect.hls.huya.com/huyalive/1099531752593-1099531752593-86435430852984832-2199063628642-10057-A-0-1.m3u8
+新东方六年级,http://aldirect.hls.huya.com/huyalive/1099531752594-1099531752594-86435435147952128-2199063628644-10057-A-0-1.m3u8
+新东方初一,http://aldirect.hls.huya.com/huyalive/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.m3u8
+新东方初二,http://aldirect.hls.huya.com/huyalive/1099531752596-1099531752596-86435443737886720-2199063628648-10057-A-0-1.m3u8
+新东方初三,http://aldirect.hls.huya.com/huyalive/1099531752597-1099531752597-86435448032854016-2199063628650-10057-A-0-1.m3u8
+新东方高一,http://aldirect.hls.huya.com/huyalive/1099531752598-1099531752598-86435452327821312-2199063628652-10057-A-0-1.m3u8
+新东方高二,http://aldirect.hls.huya.com/huyalive/1099531752599-1099531752599-86435456622788608-2199063628654-10057-A-0-1.m3u8
+新东方高三,http://aldirect.hls.huya.com/huyalive/1099531752600-1099531752600-86435460917755904-2199063628656-10057-A-0-1.m3u8
+作业帮一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344518832095319_sd.flv
+作业帮二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114150264733783_sd.flv
+作业帮三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114161536925783_sd.flv
+作业帮四年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114171468513367_sd.flv
+作业帮五年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114184289976407_sd.flv
+作业帮六年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114187240144983_sd.flv
+作业帮初一,http://pull-flv-l6-act.pstatp.com/activity/stream-394344593730306135_sd.flv
+作业帮初二,http://pull-flv-l6-act.pstatp.com/activity/stream-106114222741782615_sd.flv
+作业帮初三,http://pull-flv-l6-act.pstatp.com/activity/stream-394344604800909399_sd.flv
+作业帮高二,http://pull-flv-l6-act.pstatp.com/activity/stream-394344622782414935_sd.flv
+作业帮高三,http://pull-flv-l6-act.pstatp.com/activity/stream-394344630637035607_sd.flv
+学而思一年级,http://aldirect.hls.huya.com/huyalive/1099531752601-1099531752601-86435465212723200-2199063628658-10057-A-0-1.m3u8
+学而思二年级,http://aldirect.hls.huya.com/huyalive/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.m3u8
+学而思三年级,http://aldirect.hls.huya.com/huyalive/1099531752603-1099531752603-86435473802657792-2199063628662-10057-A-0-1.m3u8
+学而思四年级,http://aldirect.hls.huya.com/huyalive/1099531752604-1099531752604-86435478097625088-2199063628664-10057-A-0-1.m3u8
+学而思五年级,http://aldirect.hls.huya.com/huyalive/1099531752605-1099531752605-86435482392592384-2199063628666-10057-A-0-1.m3u8
+学而思六年级,http://aldirect.hls.huya.com/huyalive/1099531752606-1099531752606-86435486687559680-2199063628668-10057-A-0-1.m3u8
+学而思初一,http://aldirect.hls.huya.com/huyalive/1099531752607-1099531752607-86435490982526976-2199063628670-10057-A-0-1.m3u8
+学而思初二,http://aldirect.hls.huya.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1.m3u8
+学而思初三,http://aldirect.hls.huya.com/huyalive/1099531752609-1099531752609-86435499572461568-2199063628674-10057-A-0-1.m3u8
+学而思高一,http://aldirect.hls.huya.com/huyalive/1099531752610-1099531752610-86435503867428864-2199063628676-10057-A-0-1.m3u8
+学而思高二,http://aldirect.hls.huya.com/huyalive/1099531752611-1099531752611-86435508162396160-2199063628678-10057-A-0-1.m3u8
+学而思高三,http://aldirect.hls.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8
+腾讯一年级,https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
+腾讯二年级,https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
+腾讯三年级,https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
+腾讯四年级,https://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
+腾讯五年级,https://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
+腾讯六年级,https://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
+腾讯初一,https://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
+腾讯初二,https://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
+腾讯初三,https://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
+腾讯高一,https://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
+腾讯高二,https://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
+腾讯高三,https://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
+小学一年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106122224802201687_sd.flv
+小学一年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344518832095319_sd.flv
+小学二年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347161108873303_sd.flv
+小学二年级_学业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114150264733783_sd.flv
+小学三年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347165067771991_sd.flv
+小学三年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114161536925783_sd.flv
+小学四年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394352493309460567_sd.flv
+小学四年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114171468513367_sd.flv
+小学五年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347170511192151_sd.flv
+小学五年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114184289976407_sd.flv
+小学六年级_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106116789653733463_sd.flv
+小学六年级_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114187240144983_sd.flv
+初一_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347171578380375_sd.flv
+初一_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344593730306135_sd.flv
+初二_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106116787305185367_sd.flv
+初二_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114222741782615_sd.flv
+初三_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106116789385035863_sd.flv
+初三_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344604800909399_sd.flv
+高一_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-106116791935959127_sd.flv
+高一_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-106114239584534615_sd.flv
+高二_学而思,https://pull-flv-l6-act.pstatp.com/activity/stream-394347170975973463_sd.flv
+高二_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344622782414935_sd.flv
+高三_作业帮,http://pull-flv-l6-act.pstatp.com/activity/stream-394344630637035607_sd.flv
+新冠状病毒科普讲座,https://charge.zuoyebang.cc/record_eafdda4090346101bb9c338fc15d4561.mp4
+小学美术1,https://charge.zuoyebang.cc/record_1bfb7b7aa8fb1806c8dd89b9bb7a710f.mp4
+小学英语早读1,https://charge.zuoyebang.cc/record_eb20b799102d964e89741c4c2f634443.mp4
+小学英语早读2,https://charge.zuoyebang.cc/record_9d8cc7c2734a19ee189901afdf7949ec.mp4
+小学英语早读3,https://charge.zuoyebang.cc/record_7d499aeb5e893c0b33634d47ffc8dee3.mp4
+小一语文1,https://charge.zuoyebang.cc/record_aa1c45e333dc8499a064816c62a367c3.mp4
+小一语文2,https://charge.zuoyebang.cc/record_aa567eb451746886cec609ca11256e52.mp4
+小一语文3,https://charge.zuoyebang.cc/record_97f9c329bc28ebc898ed41ca3567b694.mp4
+小一语文4,https://charge.zuoyebang.cc/record_1959627b2443119c3554ed068ab98c02.mp4
+小一语文5,https://charge.zuoyebang.cc/record_bcd906c397759f35fe1a3ae283f2833e.mp4
+小一语文6,https://charge.zuoyebang.cc/record_81dc38f55d5cf3f4d6139f4f30564cd4.mp4
+小一语文早读1,https://charge.zuoyebang.cc/record_b7bf2eef43901fcac74659be8d6a36d2.mp4
+小一语文早读2,https://charge.zuoyebang.cc/record_f00cc9a25b6df9addde0930a7e831302.mp4
+小一诗词1,https://charge.zuoyebang.cc/record_2bbb3f375028bd38b2521c43116393c4.mp4
+小一诗词2,https://charge.zuoyebang.cc/record_28618345f0b42af04ac76ad12954237e.mp4
+小一数学1,https://charge.zuoyebang.cc/record_1fd80aa425da71413c1dae2c6ef2468d.mp4
+小一数学2,https://charge.zuoyebang.cc/record_0a4f45f7ac17b5e7ab3b954fc3e70705.mp4
+小一数学3,https://charge.zuoyebang.cc/record_9e47a7b9b0deb25627d4cb8cc0f4fba8.mp4
+小一数学4,https://charge.zuoyebang.cc/record_07797cf5a8c46ce2e82c8f555c7fb98d.mp4
+小一数学5,https://charge.zuoyebang.cc/record_2e71280b69c520f025fd34094bfcd21f.mp4
+小一数学6,https://charge.zuoyebang.cc/record_b6b03e5842bc907535b6e95b20505345.mp4
+小一数学7,https://charge.zuoyebang.cc/record_711f827a25e5fcdb3d0772adae784228.mp4
+小一英语1,https://charge.zuoyebang.cc/record_025a0712f50cb90fb3f67eed1fa64fc5.mp4
+小一英语2,https://charge.zuoyebang.cc/record_636767e8ebf98775ecece1e85c447dd2.mp4
+小一英语3,https://charge.zuoyebang.cc/record_144758455ce97a78f8acdd72093adb03.mp4
+小一英语4,https://charge.zuoyebang.cc/record_28618345f0b42af04ac76ad12954237e.mp4
+小一英语5,https://charge.zuoyebang.cc/record_85fbc353cf162f9d5111241c238cd387.mp4
+小一英语6,https://charge.zuoyebang.cc/record_f4fbd0b41c746e669303048d3fcccd5b.mp4
+小一英语7,https://charge.zuoyebang.cc/record_263ca25f64e409fe94ce9069d777a562.mp4
+小一英语早读1,https://charge.zuoyebang.cc/record_25934e7f0b5cf51710b762832850cd8a.mp4
+小一英语早读2,https://charge.zuoyebang.cc/record_9bb89e24d5fa0bc1107ba9cf55cedafc.mp4
+小二数学1,https://charge.zuoyebang.cc/record_7e4c15a7242dc8cdb26be53fe6a8638f.mp4
+小二数学2,https://charge.zuoyebang.cc/record_6351b2540a2bc7f323d4a99ecba14e89.mp4
+小二数学3,https://charge.zuoyebang.cc/record_7adbe15a22d0b4b29af45c90aba3d575.mp4
+小二数学4,https://charge.zuoyebang.cc/record_230a65802d20d74706b16ef6e7a784f5.mp4
+小二数学5,https://charge.zuoyebang.cc/record_dcda89d289f1cda1e9c1c58852dffb30.mp4
+小二数学6,https://charge.zuoyebang.cc/record_27a8d3715a203f43428a69e879656eb2.mp4
+小二数学7,https://charge.zuoyebang.cc/record_bd2734825c678b191fc46629abf78828.mp4
+小二英语1,https://charge.zuoyebang.cc/record_bedf926ec90aa807b27b489efa930b87.mp4
+小二英语2,https://charge.zuoyebang.cc/record_949797a137d7675bce16ea69730c44ef.mp4
+小二英语3,https://charge.zuoyebang.cc/record_0e4d3a78a2d4b6e51afa0b6b4db5f1b3.mp4
+小二英语4,https://charge.zuoyebang.cc/record_b718f02e4266417d54725ec444a2a953.mp4
+小二英语5,https://charge.zuoyebang.cc/record_770999a81817f5a71393577fa155d79f.mp4
+小二英语6,https://charge.zuoyebang.cc/record_1c5c141511d6a959b5454e8bee0194eb.mp4
+小二英语早读1,https://charge.zuoyebang.cc/record_eb20b799102d964e89741c4c2f634443.mp4
+小二英语早读2,https://charge.zuoyebang.cc/record_9d8cc7c2734a19ee189901afdf7949ec.mp4
+小二英语早读3,https://charge.zuoyebang.cc/record_7d499aeb5e893c0b33634d47ffc8dee3.mp4
+小二语文1,https://charge.zuoyebang.cc/record_680efab2024424857fbe5a4c17d1b38b.mp4
+小二语文2,https://charge.zuoyebang.cc/record_5a24a03b55b6002d285e3ef611e60344.mp4
+小二语文3,https://charge.zuoyebang.cc/record_c8ffb5ef527d1d0de1055f0562a92029.mp4
+小二语文4,https://charge.zuoyebang.cc/record_76ae88b8425ef3711cf6b63a39aeb289.mp4
+小二语文5,https://charge.zuoyebang.cc/record_c8e0cdc08bb273a82830b40dabea2a0b.mp4
+小二语文6,https://charge.zuoyebang.cc/record_2d94ab3f834e0cfa90a7e0e5ced1663f.mp4
+小三语文7,https://charge.zuoyebang.cc/record_fb40035f09e2af46ce87201aefba3c8a.mp4
+小二语文早读1,https://charge.zuoyebang.cc/record_46137928e075d0f8f96b410e9e58cd99.mp4
+小二语文早读2,https://charge.zuoyebang.cc/record_3d7523b76acad9fd02989849fb8c22f9.mp4
+小二语文早读3,https://charge.zuoyebang.cc/record_cd263fda05815ce7947fc4fd21fec70a.mp4
+小三数学1,https://charge.zuoyebang.cc/record_13313360bbb5d88e61c51c81a944d842.mp4
+小三数学2,https://charge.zuoyebang.cc/record_46e8b76e50c264775c4b31cd9ba3970b.mp4
+小三数学3,https://charge.zuoyebang.cc/record_ee28b59240659159478cc2c9931cb55f.mp4
+小三数学4,https://charge.zuoyebang.cc/record_66dede294372e209c1c1da062d9d84b3.mp4
+小三数学5,https://charge.zuoyebang.cc/record_585dbfffbafffe21354836515ae62efb.mp4
+小三数学6,https://charge.zuoyebang.cc/record_dab233ba02b298c0abedddcaf1360c12.mp4
+小三数学7,https://charge.zuoyebang.cc/record_2f61c7a8953e3b5f53193274de13c5df.mp4
+小三英语1,https://charge.zuoyebang.cc/record_760764190a1e6bec127a85ea7e52abf3.mp4
+小三英语2,https://charge.zuoyebang.cc/record_0e75237c1c634f352eb8ee8ebfe2ad88.mp4
+小三英语3,https://charge.zuoyebang.cc/record_7438aada31effecf2b3bbcf317ca1a71.mp4
+小三英语4,https://charge.zuoyebang.cc/record_d62ccbe97cb05f4d5f38a7549b36d873.mp4
+小三英语5,https://charge.zuoyebang.cc/record_ab877ba83a2b4e6b427859d2708ad35f.mp4
+小三英语6,https://charge.zuoyebang.cc/record_bd6f90ec0375d0edaa4e5aa81df274b3.mp4
+小三英语早读1,https://charge.zuoyebang.cc/record_b2a256a84e03112e6285e4966df94916.mp4
+小三英语早读2,https://charge.zuoyebang.cc/record_a566b7df9e80f31b375d24ad03c435bf.mp4
+小三语文1,https://charge.zuoyebang.cc/record_25ef4a807605cfc9debd46c3ff3f19a7.mp4
+小三语文2,https://charge.zuoyebang.cc/record_987ac24b4e744310ded812b07b6e234e.mp4
+小三语文3,https://charge.zuoyebang.cc/record_c83243de981a2de26516e7188ed8c9b3.mp4
+小三语文4,https://charge.zuoyebang.cc/record_8c811ed15de820f633ceaaf541095108.mp4
+小三语文5,https://charge.zuoyebang.cc/record_4168af70521888a10105e1b1dec1d41c.mp4
+小三语文晨读1,https://charge.zuoyebang.cc/record_8725e985990606ece701b89650edcc09.mp4
+小三语文晨读2,https://charge.zuoyebang.cc/record_9d58bffbf5972631f8b0d1f69e8deda7.mp4
+小三语文晨读3,https://charge.zuoyebang.cc/record_6252cb9a84556c8a85d344265a3f4761.mp4
+小四数学1,https://charge.zuoyebang.cc/record_bc3247fcd1cb5e607035e1ff4b5d4433.mp4
+小四数学2,https://charge.zuoyebang.cc/record_6c64e7a94f4b4d1a6b29cc2553638878.mp4
+小四数学3,https://charge.zuoyebang.cc/record_0caf5ab0ead258a9fb74d2d65ad436e0.mp4
+小四数学4,https://charge.zuoyebang.cc/record_79d7cb669d36e877d19c525070beb015.mp4
+小四数学5,https://charge.zuoyebang.cc/record_1935ca197db63292a901044d8836140b.mp4
+小四数学6,https://charge.zuoyebang.cc/record_4d74d4ed784131bb917513cca56f0b4d.mp4
+小四数学7,https://charge.zuoyebang.cc/record_dac64f79a6f7e888c5d1202435d5a355.mp4
+小四英语1,https://charge.zuoyebang.cc/record_3766adb63fc4075d3dceb8f1a732c66c.mp4
+小四英语2,https://charge.zuoyebang.cc/record_81f172dbbc56d78d10ca6370694ca9d2.mp4
+小四英语3,https://charge.zuoyebang.cc/record_ca6db1ef36232a0823408c68414adcae.mp4
+小四英语4,https://charge.zuoyebang.cc/record_9578af0f51d130e9d70c401f8d9066c4.mp4
+小四英语6,https://charge.zuoyebang.cc/record_c5f2102929f06e6383b78c823d225fc2.mp4
+小四英语早读1,https://charge.zuoyebang.cc/record_9c842e994e664ebceca343f726320c6a.mp4
+小四英语早读2,https://charge.zuoyebang.cc/record_c2c1f4ac3b69cb4d027e1c3d07be57b5.mp4
+小四语文1,https://charge.zuoyebang.cc/record_188a20a0c5d8385338e008e8ad5cb2aa.mp4
+小四语文2,https://charge.zuoyebang.cc/record_d61c936f23a95209f25770f03c438e50.mp4
+小四语文3,https://charge.zuoyebang.cc/record_7f3d166e8a542e75e74882a997e96b81.mp4
+小四语文4,https://charge.zuoyebang.cc/record_5325ababb6bed3cec0d29fc300697d72.mp4
+小四语文5,https://charge.zuoyebang.cc/record_eef2dbe3a4948218f90df9867f431895.mp4
+小四语文6,https://charge.zuoyebang.cc/record_18e9d94c84206ed6821dcd31baadaa64.mp4
+小四语文早读1,https://charge.zuoyebang.cc/record_bf6c084ecd3538587df026b694a93c4a.mp4
+小四语文早读2,https://charge.zuoyebang.cc/record_4f2b28dede6a947f84dd4b86ac19b092.mp4
+小四语文早读3,https://charge.zuoyebang.cc/record_508189d563198dd9a6612ef839e11dbd.mp4
+小四美术1,https://charge.zuoyebang.cc/record_7aa7d635855a8063251d4feb42831c50.mp4
+小五数学1,https://charge.zuoyebang.cc/record_158e8f7fef7c8c5bb62c32e298bf539a.mp4
+小五数学2,https://charge.zuoyebang.cc/record_9cfc12166ba4ad1d7ac526cfa3b76785.mp4
+小五数学3,https://charge.zuoyebang.cc/record_1b1228c2c4897162476d8a349399fcfd.mp4
+小五数学4,https://charge.zuoyebang.cc/record_67d9abcce1170d198307d1c033d423e6.mp4
+小五数学5,https://charge.zuoyebang.cc/record_b0b860dba33494a281b4a860b3e246d6.mp4
+小五数学6,https://charge.zuoyebang.cc/record_9764434982df6033e3450e3acb54f55e.mp4
+小五数学7,https://charge.zuoyebang.cc/record_4d4a9c4ff5825011490740a679d0f695.mp4
+小五英语1,https://charge.zuoyebang.cc/record_9632fddcb903c74498cf01fec9e22e69.mp4
+小五英语2,https://charge.zuoyebang.cc/record_fd094abf7b40c8b3e4b2db75b2912667.mp4
+小五英语3,https://charge.zuoyebang.cc/record_84b987f64c11ed55ae52c39da445eecd.mp4
+小五英语4,https://charge.zuoyebang.cc/record_64b328d2046c8fb70b9fa8384685bb81.mp4
+小五英语5,https://charge.zuoyebang.cc/record_f33eb71b26060c3c4ba444adc9c2f637.mp4
+小五英语6,https://charge.zuoyebang.cc/record_8fd13f94d1a71a06da0a37f1213c31a3.mp4
+小五英语早读1,https://charge.zuoyebang.cc/record_497c2e946f675c7b938497adac8b04da.mp4
+小五英语早读2,https://charge.zuoyebang.cc/record_c1bc2cfe5aa9a7b3cab293ce4b0c717b.mp4
+小五语文1,https://charge.zuoyebang.cc/record_fddf1d816da5349d12a0a5b110196659.mp4
+小五语文2,https://charge.zuoyebang.cc/record_c4e2535d727cc8642de6377b9ab0f95e.mp4
+小五语文3,https://charge.zuoyebang.cc/record_91b16776950deda82cde58270920d9ca.mp4
+小五语文4,https://charge.zuoyebang.cc/record_428698a88e2ad14e6f13b8b8488a03ee.mp4
+小五语文5,https://charge.zuoyebang.cc/record_2bc7803db394b6eea1dc9bd934214451.mp4
+小五语文6,https://charge.zuoyebang.cc/record_d58a362e509eaacec833e8b27bb37962.mp4
+小五语文早读1,https://charge.zuoyebang.cc/record_3b629d78af019426eae21c4e59687851.mp4
+小五语文早读2,https://charge.zuoyebang.cc/record_1d154d7661f1e8645ed5f44ef19c128e.mp4
+小五语文早读3,https://charge.zuoyebang.cc/record_82422c7662e245557052eae747971147.mp4
+小六数学1,https://charge.zuoyebang.cc/record_d71cd6db228ebc11b64049c086c5c541.mp4
+小六数学2,https://charge.zuoyebang.cc/record_24869fc1e4de324d993051cb84c355c8.mp4
+小六数学3,https://charge.zuoyebang.cc/record_6c86511f07e56dce7da1cf2d2fa874e0.mp4
+小六数学4,https://charge.zuoyebang.cc/record_0ac4b24ac515d684c369361543905b7a.mp4
+小六数学5,https://charge.zuoyebang.cc/record_34fbc9cc6507cb969e524b3059c4e6c1.mp4
+小六数学6,https://charge.zuoyebang.cc/record_52ec20a2d124e91f926eda45bc94d886.mp4
+小六数学7,https://charge.zuoyebang.cc/record_19360fde170d091116703d8b3fcb3c1e.mp4
+小六英语1,https://charge.zuoyebang.cc/record_b0e200a0791b8dbb7fb69f92ca0d171d.mp4
+小六英语2,https://charge.zuoyebang.cc/record_6d5e09ff57aa10ca087fd78cd38467d7.mp4
+小六英语3,https://charge.zuoyebang.cc/record_05e880d21ec77727b1710a68210ad535.mp4
+小六英语4,https://charge.zuoyebang.cc/record_f0ca4e0df24526c014e9c1fdce23ae0f.mp4
+小六英语6,https://charge.zuoyebang.cc/record_62b92840b91e190951dc7bd2d4a3dfcd.mp4
+小六英语早读1,https://charge.zuoyebang.cc/record_1a017b4b80ef17f318d24cdacc9245d4.mp4
+小六英语早读2,https://charge.zuoyebang.cc/record_147eb529897cc2fcc7b5c3ae054d41ff.mp4
+小六语文1,https://charge.zuoyebang.cc/record_5351d9a583817522dc19e584523886d7.mp4
+小六语文2,https://charge.zuoyebang.cc/record_440f96926acc62f65f7a820c4c719e45.mp4
+小六语文3,https://charge.zuoyebang.cc/record_ba4d69fe459807a493432a0ba3773b9f.mp4
+小六语文4,https://charge.zuoyebang.cc/record_ee49941c386456ec0ba85a69feaf657f.mp4
+小六语文5,https://charge.zuoyebang.cc/record_b8a4d751912c06afcd494f5017b08a6a.mp4
+小六语文6,https://charge.zuoyebang.cc/record_c5a9ab0bff8c4f829f52d926f481d79e.mp4
+小六语文早读1,https://charge.zuoyebang.cc/record_61c1ed2b1084e6b4313e9694933f16f1.mp4
+小六语文早读2,https://charge.zuoyebang.cc/record_42622dd3d1861f59291f29ec27fa6122.mp4
+小六语文早读3,https://charge.zuoyebang.cc/record_48e0c863928631db1ebb843a40b7c416.mp4
+初一数学1,https://charge.zuoyebang.cc/record_f6322e628baac89b0e602ae8ca05a81b.mp4
+初一数学2,https://charge.zuoyebang.cc/record_653a26ee1e6bf335c92840856744b85c.mp4
+初一数学3,https://charge.zuoyebang.cc/record_e3bcf44255e2d4dab7513487af4c1d5b.mp4
+初一数学4,https://charge.zuoyebang.cc/record_584a1a9547907f9e83bb075c95a35248.mp4
+初一数学5,https://charge.zuoyebang.cc/record_4efb1b47fc8535c4d1a989c32ab7c89a.mp4
+初一数学6,https://charge.zuoyebang.cc/record_2fe069c80342472872b301778acc7956.mp4
+初一数学7,https://charge.zuoyebang.cc/record_6ff619f00bb0f484b6495f1f3e2666d1.mp4
+初一数学8,https://charge.zuoyebang.cc/record_3960f06639d679d7afdeaf08d2afe6ca.mp4
+初一语文1,https://charge.zuoyebang.cc/record_95c31f93b80fd8cf8345c25efe8d813c.mp4
+初一语文2,https://charge.zuoyebang.cc/record_7a6684a1f072749b147bbad25ce83819.mp4
+初一语文3,https://charge.zuoyebang.cc/record_13fd94a407009636a5c8331d7921f2b7.mp4
+初一语文4,https://charge.zuoyebang.cc/record_41920357a61414724d361270290d14fd.mp4
+初一语文5,https://charge.zuoyebang.cc/record_5451b2135bb4ac66482fc257360f2caf.mp4
+初一语文6,https://charge.zuoyebang.cc/record_7dd8acd00926e6220fc8dc5988a05748.mp4
+初一语文7,https://charge.zuoyebang.cc/record_3e02a9b7da36acee1c481f0907a47779.mp4
+初一英语1,https://charge.zuoyebang.cc/record_85f96362394a4a9585d9847f30c19ec0.mp4
+初一英语2,https://charge.zuoyebang.cc/record_52cf945bae678b6fbaf7cf07665b0a1c.mp4
+初一英语3,https://charge.zuoyebang.cc/record_16277ff4aba162226f3a0c7cc611229f.mp4
+初一英语4,https://charge.zuoyebang.cc/record_942264b71a380b50b93915cb55788bb7.mp4
+初一英语5,https://charge.zuoyebang.cc/record_bdcc32f3cd67fc3910f17187d54a1a1c.mp4
+初一英语6,https://charge.zuoyebang.cc/record_5561137e3f4834b4695f58e437b05e8a.mp4
+初一英语7,https://charge.zuoyebang.cc/record_7ce454bf75ebdf9b46e36103e2c5f47c.mp4
+初一兴趣课1,https://charge.zuoyebang.cc/record_59545b4e9084a0863da5f61094ebedfb.mp4
+初一兴趣课2,https://charge.zuoyebang.cc/record_18e50280d3550ca9e4c97bc31cd82f77.mp4
+初一兴趣课3,https://charge.zuoyebang.cc/record_25647ebd7a11d3c108633e0c935072d9.mp4
+初一兴趣课4,https://charge.zuoyebang.cc/record_b5589b7dd0da515c0bb64b2b78ba5063.mp4
+初一兴趣课5,https://charge.zuoyebang.cc/record_dbfc087ca13f6e76bab9c6e7a3a43284.mp4
+初一兴趣课6,https://charge.zuoyebang.cc/record_7ee975b4b571274a2871585a36ad39e3.mp4
+初二语文1,https://charge.zuoyebang.cc/record_9d333e37eaaf0e9b2630a58549a7ac00.mp4
+初二语文2,https://charge.zuoyebang.cc/record_9a81f21d5213c69c6fedc7269f478252.mp4
+初二语文3,https://charge.zuoyebang.cc/record_14d85f5518ddabdbe49a9810abddb960.mp4
+初二语文4,https://charge.zuoyebang.cc/record_2c35d65be15929130a35a4adad84349e.mp4
+初二语文5,https://charge.zuoyebang.cc/record_df515b2f6b0a8a0b2f085c1754c3b78b.mp4
+初二语文6,https://charge.zuoyebang.cc/record_0e80d6b11a902dc8a8bb0b81568123e4.mp4
+初二语文7,https://charge.zuoyebang.cc/record_647c30dcc80a7a9d74996ea643f25044.mp4
+初二英语1,https://charge.zuoyebang.cc/record_005603d0e9b43710dabf82f648a53bbd.mp4
+初二英语2,https://charge.zuoyebang.cc/record_8bec6e1f1f5341fd0d9fca9ed7b55843.mp4
+初二英语3,https://charge.zuoyebang.cc/record_38c40cbbfbf72ced9bf110a7eee6dc68.mp4
+初二英语4,https://charge.zuoyebang.cc/record_de05c93da62888bcb704cbcea9f8ecb2.mp4
+初二英语5,https://charge.zuoyebang.cc/record_012557ac4f3b050fcca197ff4427c5a5.mp4
+初二英语6,https://charge.zuoyebang.cc/record_9299f1fa5ae5ce0b1fcf740c5c316f44.mp4
+初二英语7,https://charge.zuoyebang.cc/record_06da79f5500425ad38a87938de119162.mp4
+初二数学1,https://charge.zuoyebang.cc/record_49097978a68a7e5f89f3edbf52460321.mp4
+初二数学2,https://charge.zuoyebang.cc/record_c4b3456f287ab48216ab94b7a26368f0.mp4
+初二数学3,https://charge.zuoyebang.cc/record_7c14926c8ea52e6df97ae9628386b85e.mp4
+初二数学4,https://charge.zuoyebang.cc/record_d8470658af3127d83c33c9b0be0da250.mp4
+初二数学5,https://charge.zuoyebang.cc/record_23d14fdf44e21bbcf3d6f744079d5a65.mp4
+初二数学6,https://charge.zuoyebang.cc/record_151bb26a0598b9d81d6cf75eaa7092fb.mp4
+初二数学7,https://charge.zuoyebang.cc/record_a9de1a8d8d65c6f64bc3758d2b6c0484.mp4
+初二物理1,https://charge.zuoyebang.cc/record_76338be9b3cf6d0d1972f40eab073e3c.mp4
+初二物理2,https://charge.zuoyebang.cc/record_8c97b553426d7e4b602973d9922f541f.mp4
+初二物理3,https://charge.zuoyebang.cc/record_0f49089fb89e48c3e324dec003d24a00.mp4
+初二物理4,https://charge.zuoyebang.cc/record_8c201cccc00b2c8309e9049fcb4c914e.mp4
+初二物理5,https://charge.zuoyebang.cc/record_6abfcbf25a733b68cc41f339e706958d.mp4
+初二物理6,https://charge.zuoyebang.cc/record_0769086cd0bc81f0a28179fb7d9d38eb.mp4
+初二实验1,https://charge.zuoyebang.cc/record_d9e204013621d95e58d55c5fd8653004.mp4
+初二实验2,https://charge.zuoyebang.cc/record_8abc9333451362f69ef3b64d87ea482d.mp4
+初二实验3,https://charge.zuoyebang.cc/record_b5eb663f587e18bfa00000606e2d0b87.mp4
+初二实验4,https://charge.zuoyebang.cc/record_6bccd87c5c4ac16d3ad35a3e68f0033c.mp4
+初二实验5,https://charge.zuoyebang.cc/record_34fd6d849a44d196b781526474cbeefb.mp4
+初二实验6,https://charge.zuoyebang.cc/record_18a8d8f12998ea658affa5ab200cd24b.mp4
+初三英语1,https://charge.zuoyebang.cc/record_4f9f0c9e4e5486997e2d4edd4c0cba6c.mp4
+初三英语2,https://charge.zuoyebang.cc/record_13011ec8eb1cce187643c3aa840755b6.mp4
+初三英语3,https://charge.zuoyebang.cc/record_d5cec177c52e7aa9d8c98401817fd0c5.mp4
+初三英语4,https://charge.zuoyebang.cc/record_a16e87d9d25e559a9d725d009742969d.mp4
+初三英语5,https://charge.zuoyebang.cc/record_de1e0c40fe66fd42efee72a38ff16648.mp4
+初三英语6,https://charge.zuoyebang.cc/record_da6e18fd128460ea48aacccbdef32afb.mp4
+初三英语7,https://charge.zuoyebang.cc/record_9a7e5fb64c2221e86b82a539046b8168.mp4
+初三数学1,https://charge.zuoyebang.cc/record_46416811cd918fd535d488037bc8bd14.mp4
+初三数学2,https://charge.zuoyebang.cc/record_97e06b8e801ff79057bd208bea05a8ac.mp4
+初三数学3,https://charge.zuoyebang.cc/record_14dad5c919762558745dfdf224044f58.mp4
+初三数学4,https://charge.zuoyebang.cc/record_c75e25f0b230887b9cc3f95a699e62b2.mp4
+初三数学5,https://charge.zuoyebang.cc/record_a15bb35e4a6653c58f117bed02001af6.mp4
+初三数学6,https://charge.zuoyebang.cc/record_734d39ca7593895127e239d86bd28631.mp4
+初三数学7,https://charge.zuoyebang.cc/record_cbd7f99077b4b518aaf664d8d980c6ba.mp4
+初三语文1,https://charge.zuoyebang.cc/record_d1b4ae3f9495e4453e25bf4310284013.mp4
+初三语文2,https://charge.zuoyebang.cc/record_3bfcee26cafc60fc10aa355648403612.mp4
+初三语文3,https://charge.zuoyebang.cc/record_d50392519b852632a18fefb2c93ea4ff.mp4
+初三语文4,https://charge.zuoyebang.cc/record_0a414cbdcc0eb044c02f33bec1e9a66e.mp4
+初三语文5,https://charge.zuoyebang.cc/record_9d101a381de02c9ae5edad2fbe298d35.mp4
+初三语文6,https://charge.zuoyebang.cc/record_7a71522f8d6f6491dc00d0f99f4316d6.mp4
+初三语文7,https://charge.zuoyebang.cc/record_37c21ec72279b88be2ca22f35fa86fd3.mp4
+初三化学1,https://charge.zuoyebang.cc/record_bc0c02eaf03655424ca890e8b731543d.mp4
+初三化学2,https://charge.zuoyebang.cc/record_245219645579fbb411688b9ade619782.mp4
+初三化学3,https://charge.zuoyebang.cc/record_cfdd5cdbb6e1b36578f660beca72cec9.mp4
+初三化学4,https://charge.zuoyebang.cc/record_15875a33132d585e13843d8f1ec55f90.mp4
+初三化学5,https://charge.zuoyebang.cc/record_71a9e3dc623d9e44eac43b0f46868af3.mp4
+初三化学6,https://charge.zuoyebang.cc/record_1513469a7ed29f0cc15b3df1648210a4.mp4
+初三物理1,https://charge.zuoyebang.cc/record_107990582e64c7ac9d17aea36a27f2f5.mp4
+初三物理2,https://charge.zuoyebang.cc/record_7526d9fd787291372b7520e6164685a4.mp4
+初三物理3,https://charge.zuoyebang.cc/record_07790cba532d3064f1d12d2b57ca837b.mp4
+初三物理4,https://charge.zuoyebang.cc/record_96180d260edfebf4abe00726f8b3237e.mp4
+初三物理5,https://charge.zuoyebang.cc/record_6a36cc173ebbb79f7837ecf06a6440bf.mp4
+初三物理6,https://charge.zuoyebang.cc/record_5c2ac4550f1d89c91bfa1e7a77b1cac8.mp4
+初三家长课1,https://charge.zuoyebang.cc/record_5c2cebe2d63fdf0d8054b64051adaaf9.mp4
+作业帮直播课导学,https://charge.zuoyebang.cc/record_18fa09f50b6087a88fbfb4fd1522c67c.mp4
+高一数学1,https://charge.zuoyebang.cc/record_efd07ff8dde313b25c65d4ad639a54b3.mp4
+高一数学2,https://charge.zuoyebang.cc/record_45351f3279e96ccdc954a407abe2132a.mp4
+高一数学3,https://charge.zuoyebang.cc/record_5eed893021fbec27e96786f6cfdf6fa5.mp4
+高一数学4,https://charge.zuoyebang.cc/record_66c25ab375db799dd29009719c62cf5a.mp4
+高一数学5,https://charge.zuoyebang.cc/record_5db78ac08c0ca478615dc2d62a5e0377.mp4
+高一数学6,https://charge.zuoyebang.cc/record_ea35a412bb6dbedfb0e99e821db81aa7.mp4
+高一数学7,https://charge.zuoyebang.cc/record_09901223755ddff933c34a7c8c4026d9.mp4
+高一语文1,https://charge.zuoyebang.cc/record_95c35230a06b35aa812392a9d74f0f03.mp4
+高一语文2,https://charge.zuoyebang.cc/record_c72a1941decd34aef4a8a3603ce436e4.mp4
+高一语文3,https://charge.zuoyebang.cc/record_e25280069f5837339afecc69360449be.mp4
+高一语文4,https://charge.zuoyebang.cc/record_fe1eb12aa28bf9adbb13195a6ffe5ae0.mp4
+高一语文5,https://charge.zuoyebang.cc/record_057f7235b64300448b8d1e70b1bc2ff3.mp4
+高一语文6,https://charge.zuoyebang.cc/record_1b87a2dacc6e7a02201ab547654d8269.mp4
+高一语文7,https://charge.zuoyebang.cc/record_160469487c71f062ccb1e0dd839d06f9.mp4
+高一英语1,https://charge.zuoyebang.cc/record_6cc58aa6b4cce5df80891992d10cbfda.mp4
+高一英语2,https://charge.zuoyebang.cc/record_93fd44d519ea85814e825718cfd3e911.mp4
+高一英语3,https://charge.zuoyebang.cc/record_fc30994e46fe2dcd377bb008761ebebb.mp4
+高一英语4,https://charge.zuoyebang.cc/record_2bb71e09f70ff58764f665a74daa1969.mp4
+高一英语5,https://charge.zuoyebang.cc/record_c9b2a0a91073dac682933a5580698d3d.mp4
+高一英语6,https://charge.zuoyebang.cc/record_df72999b42846d7d1ef1e11014bc4f06.mp4
+高一英语7,https://charge.zuoyebang.cc/record_8b94437852ec44a51126d113569a9efb.mp4
+高一物理1,https://charge.zuoyebang.cc/record_882ae993307f9fe5e23221e5533d3ebb.mp4
+高一物理2,https://charge.zuoyebang.cc/record_cea7d1923822a9a96949a5d3ffab2848.mp4
+高一物理3,https://charge.zuoyebang.cc/record_d05c5273ed54d5f7e6da116a18d2336d.mp4
+高一物理4,https://charge.zuoyebang.cc/record_340dcb8902bf65ed5e7e816286336fa8.mp4
+高一物理5,https://charge.zuoyebang.cc/record_1b4d8b346e9bc4a5a22d1829c956d72a.mp4
+高一物理6,https://charge.zuoyebang.cc/record_c80de590b66e26fee71a2fde241f78d5.mp4
+高一化学1,https://charge.zuoyebang.cc/record_383bdd6cf9170943b09dd29723f8872a.mp4
+高一化学2,https://charge.zuoyebang.cc/record_15ea71ed32307833fb90f66f614e9067.mp4
+高一化学3,https://charge.zuoyebang.cc/record_bc61a97b28f6e62aae753f02812c1639.mp4
+高一化学4,https://charge.zuoyebang.cc/record_6e7257f2306f29d4397bc5f4addde473.mp4
+高一化学5,https://charge.zuoyebang.cc/record_13d0d52f010bb12e37a320a408284735.mp4
+高一化学6,https://charge.zuoyebang.cc/record_e1b6da67109ae60a0e5080b6a764c129.mp4
+高一生物1,https://charge.zuoyebang.cc/record_8ea97140f650ff504328ceded3cf9f01.mp4
+高一生物2,https://charge.zuoyebang.cc/record_58901cc6e65d9cff4db9127e3d958aac.mp4
+高一生物3,https://charge.zuoyebang.cc/record_5ba0f809c9fa55934075f70740381fee.mp4
+高一生物4,https://charge.zuoyebang.cc/record_87e6abb97a5d71bc30973f808dc2ce3c.mp4
+高一生物5,https://charge.zuoyebang.cc/record_e051f5414a4e0bd29341de42cb7e1451.mp4
+高一地理1,https://charge.zuoyebang.cc/record_ead23db95dccc76c211dc38595365604.mp4
+高一地理2,https://charge.zuoyebang.cc/record_02f68c3aa1f2fce91fe93cc697d9665f.mp4
+高一地理3,https://charge.zuoyebang.cc/record_6b829728c95ceed72dbe26611332053f.mp4
+高一政治1,https://charge.zuoyebang.cc/record_b66603bc1d1c53a7205214485120c61c.mp4
+高一政治2,https://charge.zuoyebang.cc/record_93d721c872a9c6c75482929bff9333bd.mp4
+高一历史1,https://charge.zuoyebang.cc/record_c4c1c738ad23bd584c4736e587e035e7.mp4
+高一历史2,https://charge.zuoyebang.cc/record_92cec72fbddf83338f996885de1b14e1.mp4
+高二数学1,https://charge.zuoyebang.cc/record_41b1bbfee7524d2458df5d1edb208e94.mp4
+高二数学2,https://charge.zuoyebang.cc/record_11ed6637cb5917c63b4ae30d8d9ac3d4.mp4
+高二数学3,https://charge.zuoyebang.cc/record_eb853c6189a74052329bc354ce18cd89.mp4
+高二数学4,https://charge.zuoyebang.cc/record_e9db288cb44f86f0b2dcccfdbc6402a0.mp4
+高二数学5,https://charge.zuoyebang.cc/record_8f227509813d762e4f25e9b838b563aa.mp4
+高二数学6,https://charge.zuoyebang.cc/record_79be17c1bbb40a7e47b4d163c7d8146b.mp4
+高二数学7,https://charge.zuoyebang.cc/record_20d377a1381671182035f23e02ea48be.mp4
+高二语文1,https://charge.zuoyebang.cc/record_0df7d0850cabcace912932f0afd89948.mp4
+高二语文2,https://charge.zuoyebang.cc/record_9a1c3d15969a9c8d41e155ca42a6f909.mp4
+高二语文3,https://charge.zuoyebang.cc/record_3a76849b4c768f06731651ff3e66d643.mp4
+高二语文4,https://charge.zuoyebang.cc/record_91789a428a6d846dd287f2659b2872a5.mp4
+高二语文5,https://charge.zuoyebang.cc/record_f4cace8e6db44b0251b571b68cd12999.mp4
+高二语文6,https://charge.zuoyebang.cc/record_653af55577f29a38262ff90b638f162d.mp4
+高二语文7,https://charge.zuoyebang.cc/record_987c1ace51467b5959a447eec31ae0d9.mp4
+高二英语2,https://charge.zuoyebang.cc/record_501127ba1e291e2da33ecb0ad8a17b49.mp4
+高二英语3,https://charge.zuoyebang.cc/record_e9b21a832083a8059a9aa4b3a79e66bd.mp4
+高二英语4,https://charge.zuoyebang.cc/record_69481283dbf37ca6be8b61c6472f88f6.mp4
+高二英语5,https://charge.zuoyebang.cc/record_718a92e0e18b71185e1364c8aece1079.mp4
+高二英语6,https://charge.zuoyebang.cc/record_835add6974d91405d47bc4221402a7cc.mp4
+高二英语7,https://charge.zuoyebang.cc/record_aa6d9420ff3c49bdddcfcec52d0bf653.mp4
+高二物理1,https://charge.zuoyebang.cc/record_b339367390f562537148e5d2ecbf9bf8.mp4
+高二物理2,https://charge.zuoyebang.cc/record_a300804c2a446da95b180914ab50acda.mp4
+高二物理3,https://charge.zuoyebang.cc/record_c26cd6c7e6d6a3c6044162c71fc69b1d.mp4
+高二物理4,https://charge.zuoyebang.cc/record_97d1e38b06064b7760eb406bbb6f90f0.mp4
+高二物理5,https://charge.zuoyebang.cc/record_e7ac8ca7a6c7ab175f73dd19325410e8.mp4
+高二物理6,https://charge.zuoyebang.cc/record_fca26a07545e7ce3f29759b662bedf07.mp4
+高二化学1,https://charge.zuoyebang.cc/record_9c5e5f29cf42f132d1ee5f24bad119df.mp4
+高二化学2,https://charge.zuoyebang.cc/record_924cc421632d0af2360e46f272b5dbc0.mp4
+高二化学3,https://charge.zuoyebang.cc/record_22005b3013271768995fa7f47f016c23.mp4
+高二化学4,https://charge.zuoyebang.cc/record_5dd6907b2c7c4188aa3762ed78f532fd.mp4
+高二化学5,https://charge.zuoyebang.cc/record_a9e82e404dbe2e2701c6a9f57d6acad0.mp4
+高二化学6,https://charge.zuoyebang.cc/record_364763b29795cf25385f327ea2a5595e.mp4
+高二生物1,https://charge.zuoyebang.cc/record_cd3a81a8adfd2235a46e63c4b62b6d18.mp4
+高二生物2,https://charge.zuoyebang.cc/record_ead2459b9b3bad20fa847606768bee3b.mp4
+高二生物3,https://charge.zuoyebang.cc/record_df11031079f6c364ea1163a2b64c7966.mp4
+高二生物4,https://charge.zuoyebang.cc/record_617b574a7c55cb65dd8ceb2805ba8ae7.mp4
+高二政治2,https://charge.zuoyebang.cc/record_19f1d4a7187592a2a59e5af05adad5cb.mp4
+高二地理1,https://charge.zuoyebang.cc/record_b022d09c9aba13f7c63912e74f6643b0.mp4
+高二地理2,https://charge.zuoyebang.cc/record_f516570d6985396b86b4ccbace126fe5.mp4
+高二地理3,https://charge.zuoyebang.cc/record_1dc0c702f40fe7aa7dc48a68a3e11b1b.mp4
+高二地理4,https://charge.zuoyebang.cc/record_3e6779c646b69c2da6a3ee1b92eb9c16.mp4
+高二历史1,https://charge.zuoyebang.cc/record_557c99d0f04ba98c3e40f0e278d23821.mp4
+高二历史2,https://charge.zuoyebang.cc/record_5f302a88c533bf0448c9d91d4b38856d.mp4
+高三数学1,https://charge.zuoyebang.cc/record_26c088922bd2ef7a8b4c2574028c363e.mp4
+高三数学2,https://charge.zuoyebang.cc/record_e24a51e2707d13e83cf2be0ec758f5ed.mp4
+高三数学3,https://charge.zuoyebang.cc/record_d2599be53cb8da25dee4ac42f014f04d.mp4
+高三数学4,https://charge.zuoyebang.cc/record_5c68752413fefc64334b79656017abee.mp4
+高三数学5,https://charge.zuoyebang.cc/record_91d0fa5fd093d5b8ba4bb3d689f4c2bd.mp4
+高三数学6,https://charge.zuoyebang.cc/record_717dec80c2307f9b650fe44d28299c23.mp4
+高三数学7,https://charge.zuoyebang.cc/record_1d756a80c12e3dcab33a0d95f7bb9ba3.mp4
+高三语文1,https://charge.zuoyebang.cc/record_88c09a55ca41c3b55406034cde9357c8.mp4
+高三语文2,https://charge.zuoyebang.cc/record_5cd7b16bac9af747b313c549259c6231.mp4
+高三语文3,https://charge.zuoyebang.cc/record_6ffadd298428d984851cdffc8092a08f.mp4
+高三语文4,https://charge.zuoyebang.cc/record_2f6a1ada2511d99eae10b7c0c50fdc80.mp4
+高三语文5,https://charge.zuoyebang.cc/record_3651ee2dae3173253539e80f5f773fe5.mp4
+高三语文6,https://charge.zuoyebang.cc/record_c1042dbc85d44c387f922ff7734cbbcb.mp4
+高三语文7,https://charge.zuoyebang.cc/record_f9e79be2961c8ce5c0952fbe899fe69f.mp4
+高三英语1,https://charge.zuoyebang.cc/record_54d88e6cbc7b1083578c9fecf5410f63.mp4
+高三英语2,https://charge.zuoyebang.cc/record_5d7d439ca7896bce9507caecc875ccb9.mp4
+高三英语3,https://charge.zuoyebang.cc/record_6b82b634f48fd77f8286664d6ff64039.mp4
+高三英语4,https://charge.zuoyebang.cc/record_e692ffeca6a9f72fe1c719e403b49eb3.mp4
+高三英语5,https://charge.zuoyebang.cc/record_5ee23e7da6d8f2cad7c634c93c73a45d.mp4
+高三英语6,https://charge.zuoyebang.cc/record_b2b92cd6bfc21354b042765503b7dd38.mp4
+高三英语7,https://charge.zuoyebang.cc/record_fb042addb1086bd955bff75f36ff9bc3.mp4
+高三物理1,https://charge.zuoyebang.cc/record_36c89e6d0aa8842a0d3275c4173ab35d.mp4
+高三物理2,https://charge.zuoyebang.cc/record_dfe6941f6b9488aedaa9ba40688f2cc4.mp4
+高三物理3,https://charge.zuoyebang.cc/record_691e3a173e1e8732f80719508022a92d.mp4
+高三物理4,https://charge.zuoyebang.cc/record_3907436405734b79f2b1f22d0922e6a4.mp4
+高三物理5,https://charge.zuoyebang.cc/record_ff9279f7a951f59ae576e4c2ff097293.mp4
+高三物理6,https://charge.zuoyebang.cc/record_bc6cce5f730e48d9e15b591581009acb.mp4
+高三化学1,https://charge.zuoyebang.cc/record_9ea36f8c474a0f101d52486b616cdf53.mp4
+高三化学2,https://charge.zuoyebang.cc/record_f6a4382f9df4746a8071a6b000bcd076.mp4
+高三化学3,https://charge.zuoyebang.cc/record_ca8b43b0974a9f47bcb4aa1a96242e1d.mp4
+高三化学4,https://charge.zuoyebang.cc/record_1bad7380ea4e3ea5e44b997b23ea13a4.mp4
+高三化学5,https://charge.zuoyebang.cc/record_174bc01c76aaa80f4bc29f3b11ae944f.mp4
+高三化学6,https://charge.zuoyebang.cc/record_bbcd1a0c3be102e8b8189e3221ffa7f8.mp4
+高三生物1,https://charge.zuoyebang.cc/record_bf53c3ec79abcb02ac6c3f8a6ed4a673.mp4
+高三生物2,https://charge.zuoyebang.cc/record_bdd14cb0d90621c124b913aca0f0721e.mp4
+高三生物3,https://charge.zuoyebang.cc/record_2a874868eb734a754085c5a71cfd27d3.mp4
+高三生物4,https://charge.zuoyebang.cc/record_34d9dd0d2c3bdab37ae893e6e863debd.mp4
+高三生物5,https://charge.zuoyebang.cc/record_c07a2b7142ddad87ed0c5a1fddee24aa.mp4
+高三地理1,https://charge.zuoyebang.cc/record_32b6641942e7b6401b387ba1b751f75d.mp4
+高三地理2,https://charge.zuoyebang.cc/record_6ce12c9ff05adf52108139d3036caa36.mp4
+高三历史1,https://charge.zuoyebang.cc/record_d40ef4840d8a712e42d658dc3ec98e9c.mp4
+高三历史2,https://charge.zuoyebang.cc/record_34ec6b90c6b284162f3293b79e08d675.mp4
+高三历史3,https://charge.zuoyebang.cc/record_d9837dac651917b589dbe5014f6c0e8f.mp4
+高三政治1,https://charge.zuoyebang.cc/record_f7c40171c141526384b67de9865243b5.mp4
+高三政治2,https://charge.zuoyebang.cc/record_30d27e82efa968c5be825bab0efc909e.mp4
+企鹅辅 Ⅰ 小学一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
+作业帮 Ⅰ 小学一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344518832095319_sd.flv
+学而思 Ⅰ 小学一年级,http://aldirect.hls.huya.com/huyalive/1099531752601-1099531752601-86435465212723200-2199063628658-10057-A-0-1.m3u8
+新东方 Ⅰ 小学一年级,http://aldirect.hls.huya.com/huyalive/1099531752589-1099531752589-86435413673115648-2199063628634-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
+作业帮 Ⅰ 小学二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114150264733783_sd.flv
+学而思 Ⅰ 小学二年级,http://aldirect.hls.huya.com/huyalive/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.m3u8
+新东方 Ⅰ 小学二年级,http://aldirect.hls.huya.com/huyalive/1099531752590-1099531752590-86435417968082944-2199063628636-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
+作业帮 Ⅰ 小学三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114161536925783_sd.flv
+学而思 Ⅰ 小学三年级,http://aldirect.hls.huya.com/huyalive/1099531752603-1099531752603-86435473802657792-2199063628662-10057-A-0-1.m3u8
+新东方 Ⅰ 小学三年级,http://aldirect.hls.huya.com/huyalive/1099531752591-1099531752591-86435422263050240-2199063628638-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学四年级,http://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
+作业帮 Ⅰ 小学四年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114171468513367_sd.flv
+学而思 Ⅰ 小学四年级,http://aldirect.hls.huya.com/huyalive/1099531752604-1099531752604-86435478097625088-2199063628664-10057-A-0-1.m3u8
+新东方 Ⅰ 小学四年级,http://aldirect.hls.huya.com/huyalive/1099531752592-1099531752592-86435426558017536-2199063628640-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学五年级,http://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
+作业帮 Ⅰ 小学五年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114184289976407_sd.flv
+学而思 Ⅰ 小学五年级,http://aldirect.hls.huya.com/huyalive/1099531752605-1099531752605-86435482392592384-2199063628666-10057-A-0-1.m3u8
+新东方 Ⅰ 小学五年级,http://aldirect.hls.huya.com/huyalive/1099531752593-1099531752593-86435430852984832-2199063628642-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 小学六年级,http://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
+作业帮 Ⅰ 小学六年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114187240144983_sd.flv
+学而思 Ⅰ 小学六年级,http://aldirect.hls.huya.com/huyalive/1099531752606-1099531752606-86435486687559680-2199063628668-10057-A-0-1.m3u8
+新东方 Ⅰ 小学六年级,http://aldirect.hls.huya.com/huyalive/1099531752594-1099531752594-86435435147952128-2199063628644-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 初中一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
+作业帮 Ⅰ 初中一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344593730306135_sd.flv
+学而思 Ⅰ 初中一年级,http://aldirect.hls.huya.com/huyalive/1099531752607-1099531752607-86435490982526976-2199063628670-10057-A-0-1.m3u8
+新东方 Ⅰ 初中一年级,http://aldirect.hls.huya.com/huyalive/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 初中二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
+作业帮 Ⅰ 初中二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114222741782615_sd.flv
+学而思 Ⅰ 初中二年级,http://aldirect.hls.huya.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1.m3u8
+新东方 Ⅰ 初中二年级,http://aldirect.hls.huya.com/huyalive/1099531752596-1099531752596-86435443737886720-2199063628648-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 初中三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
+作业帮 Ⅰ 初中三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344604800909399_sd.flv
+学而思 Ⅰ 初中三年级,http://aldirect.hls.huya.com/huyalive/1099531752609-1099531752609-86435499572461568-2199063628674-10057-A-0-1.m3u8
+新东方 Ⅰ 初中三年级,http://aldirect.hls.huya.com/huyalive/1099531752597-1099531752597-86435448032854016-2199063628650-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 高中一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
+作业帮 Ⅰ 高中一年级,http://pull-flv-l6-act.pstatp.com/activity/stream-106114239584534615_sd.flv
+学而思 Ⅰ 高中一年级,http://aldirect.hls.huya.com/huyalive/1099531752610-1099531752610-86435503867428864-2199063628676-10057-A-0-1.m3u8
+新东方 Ⅰ 高中一年级,http://aldirect.hls.huya.com/huyalive/1099531752598-1099531752598-86435452327821312-2199063628652-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 高中二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
+作业帮 Ⅰ 高中二年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344622782414935_sd.flv
+学而思 Ⅰ 高中二年级,http://aldirect.hls.huya.com/huyalive/1099531752611-1099531752611-86435508162396160-2199063628678-10057-A-0-1.m3u8
+新东方 Ⅰ 高中二年级,http://aldirect.hls.huya.com/huyalive/1099531752599-1099531752599-86435456622788608-2199063628654-10057-A-0-1.m3u8
+企鹅辅 Ⅰ 高中三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
+作业帮 Ⅰ 高中三年级,http://pull-flv-l6-act.pstatp.com/activity/stream-394344630637035607_sd.flv
+学而思 Ⅰ 高中三年级,http://aldirect.hls.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8
+新东方 Ⅰ 高中三年级,http://aldirect.hls.huya.com/huyalive/1099531752600-1099531752600-86435460917755904-2199063628656-10057-A-0-1.m3u8
+新世界全,#genre#
+第01集,http://iqiyi.cdn9-okzy.com/20200113/4881_7fb45442/index.m3u8
+第02集,http://iqiyi.cdn9-okzy.com/20200113/4884_2f821bc3/index.m3u8
+第03集,http://bilibili.com-h-bilibili.com/20200114/10267_48179190/index.m3u8
+第04集,http://bilibili.com-h-bilibili.com/20200114/10268_e1e4126b/index.m3u8
+第05集,http://bilibili.com-h-bilibili.com/20200115/10269_b16e28e6/index.m3u8
+第06集,http://bilibili.com-h-bilibili.com/20200115/10270_c7628d9a/index.m3u8
+第07集,http://iqiyi.cdn9-okzy.com/20200116/5000_d99f5e92/index.m3u8
+第08集,http://iqiyi.cdn9-okzy.com/20200116/5003_f5c41acf/index.m3u8
+第09集,http://youku.com-iqiyi.net/20200117/22696_b322f44f/index.m3u8
+第10集,http://youku.com-iqiyi.net/20200117/22697_d9870f00/index.m3u8
+第11集,http://bilibili.com-h-bilibili.com/20200118/10276_31c3168f/index.m3u8
+第12集,http://youku.com-iqiyi.net/20200119/22699_dbf8ebd0/index.m3u8
+第13集,http://youku.com-iqiyi.net/20200119/22700_063a3e41/index.m3u8
+第14集,http://bilibili.com-h-bilibili.com/20200120/10278_8e58a9a0/index.m3u8
+第15集,http://bilibili.com-h-bilibili.com/20200120/10279_8ced7b19/index.m3u8
+第16集,http://youku.com-iqiyi.net/20200121/22702_a8291f7c/index.m3u8
+第17集,http://youku.com-iqiyi.net/20200121/22703_46786ce9/index.m3u8
+第18集,http://bilibili.com-h-bilibili.com/20200122/10281_1aaedce1/index.m3u8
+第19集,http://bilibili.com-h-bilibili.com/20200122/10282_18774e66/index.m3u8
+第20集,http://youku.cdn4-okzy.com/20200126/4043_4ebc5f90/index.m3u8
+第21集,http://youku.cdn4-okzy.com/20200126/4042_b4a4d853/index.m3u8
+第22集,http://youku.cdn4-okzy.com/20200126/4052_0fe1882e/index.m3u8
+第23集,http://youku.cdn4-okzy.com/20200126/4051_5309eab4/index.m3u8
+第24集,http://youku.cdn4-okzy.com/20200127/4072_3b1dbf61/index.m3u8
+第25集,http://youku.cdn4-okzy.com/20200127/4071_74d13c81/index.m3u8
+第26集,http://youku.cdn4-okzy.com/20200128/4093_9e742842/index.m3u8
+第27集,http://youku.cdn4-okzy.com/20200128/4092_493b5a6d/index.m3u8
+第28集,http://youku.cdn4-okzy.com/20200129/4108_ed8e6059/index.m3u8
+第29集,http://youku.cdn4-okzy.com/20200129/4107_ee21084c/index.m3u8
+第30集,http://youku.cdn4-okzy.com/20200130/4146_5c36ef94/index.m3u8
+第31集,http://youku.cdn4-okzy.com/20200130/4145_90eef060/index.m3u8
+第32集,http://youku.cdn4-okzy.com/20200131/4175_27deb057/index.m3u8
+第33集,http://youku.cdn4-okzy.com/20200131/4174_10ac6b88/index.m3u8
+第34集,http://youku.cdn4-okzy.com/20200201/4186_6bf439ce/index.m3u8
+第35集,http://youku.cdn4-okzy.com/20200202/4195_675cdb4f/index.m3u8
+第36集,http://youku.cdn4-okzy.com/20200202/4194_fce7c8c2/index.m3u8
+第37集,http://youku.cdn4-okzy.com/20200203/4205_4bc22053/index.m3u8
+第38集,http://youku.cdn4-okzy.com/20200203/4204_9b541eeb/index.m3u8
+第39集,http://youku.cdn4-okzy.com/20200204/4224_c93cb2d9/index.m3u8
+第40集,http://youku.cdn4-okzy.com/20200204/4223_83ea93f1/index.m3u8
+第41集,http://youku.cdn4-okzy.com/20200205/4256_04fbfba9/index.m3u8
+第42集,http://youku.cdn4-okzy.com/20200205/4255_3008338c/index.m3u8
+第43集,http://youku.cdn4-okzy.com/20200206/4271_28d66eff/index.m3u8
+第44集,http://youku.cdn4-okzy.com/20200206/4270_efcd0a78/index.m3u8
+第45集,http://youku.cdn4-okzy.com/20200207/4288_5229dfdd/index.m3u8
+第46集,http://youku.cdn4-okzy.com/20200207/4287_38a5529f/index.m3u8
+第47集,http://youku.cdn4-okzy.com/20200208/4295_996f8a82/index.m3u8
+第48集,http://youku.cdn4-okzy.com/20200208/4294_a3e3a68e/index.m3u8
+第49集,http://bilibili.com-h-bilibili.com/20200209/10286_3d5c1f33/index.m3u8
+第50集,http://youku.cdn4-okzy.com/20200210/4307_dea3851a/index.m3u8
+第51集,http://youku.cdn4-okzy.com/20200210/4323_da88689f/index.m3u8
+第52集,http://youku.com-iqiyi.net/20200211/22728_7d08a7f3/index.m3u8
+第53集,http://bilibili.com-h-bilibili.com/20200211/10289_0014384e/index.m3u8
+第54集,http://youku.cdn2-okzy.com/20200212/7628_960993f2/index.m3u8
+第55集,http://youku.cdn2-okzy.com/20200212/7629_c28f3ac7/index.m3u8
+第56集,http://youku.cdn4-okzy.com/20200213/4365_bd945d4f/index.m3u8
+第57集,http://youku.cdn4-okzy.com/20200213/4364_327d4435/index.m3u8
+第58集,http://youku.cdn4-okzy.com/20200214/4414_153052d3/index.m3u8
+第59集,http://youku.cdn4-okzy.com/20200214/4413_4d23bc9d/index.m3u8
+第60集,http://youku.cdn4-okzy.com/20200215/4437_462a36b4/index.m3u8
+第61集,http://youku.cdn4-okzy.com/20200216/4445_b4d5cfd2/index.m3u8
+第62集,http://youku.cdn4-okzy.com/20200216/4444_6055ec35/index.m3u8
+第63集,http://youku.cdn4-okzy.com/20200217/4513_1f726e61/index.m3u8
+第64集,http://youku.cdn4-okzy.com/20200217/4512_558aada8/index.m3u8
+第65集,http://youku.cdn4-okzy.com/20200218/4530_ab99fb3a/index.m3u8
+第66集,http://youku.cdn4-okzy.com/20200218/4529_3a09efbd/index.m3u8
+第67集,http://youku.cdn4-okzy.com/20200219/4552_c55c9002/index.m3u8
+第68集,http://youku.cdn4-okzy.com/20200219/4551_d57be547/index.m3u8
+第69集,http://youku.cdn2-okzy.com/20200220/7820_4f6a0036/index.m3u8
+第70集,http://youku.cdn2-okzy.com/20200220/7819_5aef7201/index.m3u8
 庆余年全,#genre#
 第1集,http://cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8
 第2集,http://cn6.7639616.com/hls/20191126/5732e6c5fd2ba9580797bbac42bc3afa/1574769508/index.m3u8
